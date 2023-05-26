@@ -13,7 +13,6 @@ phases:
       - zip hello.zip ./index.html ./aws.gif ./1.png ./back.jpg
    
 artifacts:
-  type: 
   files:
     - index.html
     - appspec.yml
